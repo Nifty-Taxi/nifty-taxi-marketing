@@ -25,6 +25,11 @@
   align-items: center;
 }
 
+.container img {
+  width: 100%;
+  max-width: 1000px;
+}
+
 .footer img {
   margin-left: 0.5rem;
 }
